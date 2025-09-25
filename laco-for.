@@ -1,0 +1,22 @@
+for i in range(6, 31, 6):
+
+    print(i)
+
+for i in range(1, 12, 12):
+
+    print(i)
+
+for i in range(5):
+    print("Python é lógico!")
+
+
+# Variável com a frase motivacional
+frase = "Você é capaz de conquistar tudo o que deseja!"
+
+# Variável com o número de repetições
+repeticoes = 7
+
+# Laço de repetição para exibir a frase
+for i in range(repeticoes):
+    print(frase)
+
